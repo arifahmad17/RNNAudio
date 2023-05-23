@@ -1,0 +1,9 @@
+/MS-SNSD
+/dataset.npz
+/.idea
+/__pycache__
+/_filtered_sample.wav
+/_nn_filtered_sample.wav
+/_noisy_sample.wav
+/venv
+/model.h5
